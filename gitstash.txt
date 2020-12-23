@@ -1,0 +1,2 @@
+测试git stash的基本用法
+git stash save
